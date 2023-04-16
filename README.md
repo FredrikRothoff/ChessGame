@@ -7,7 +7,7 @@ This is a simple chess game made in Java that runs in the terminal. Please note 
 To get started, you will need to download the source code for the game. You can do this by cloning the repository:
 
 ```
-git clone https://github.com/yourusername/java-chess-game.git
+git clone git@github.com:Rothoff/ChessGame.git
 ```
 Once you have the source code, you can compile and run the game in your preferred Java compiler. The main class is Chess.java, which you can run to start the game.
 
